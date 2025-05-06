@@ -648,6 +648,12 @@ section,
   line-height: 0;
 }
 
+.about .content ul li strong {
+  display: inline-block;
+  width: 110px; /* ubah angkanya sesuai kebutuhan */
+  vertical-align: top;
+}
+
 /*--------------------------------------------------------------
 # Stats Section
 --------------------------------------------------------------*/
